@@ -1,0 +1,13 @@
+﻿  Parser.cpp
+  Analyser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  AbstractTree.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  FileSystem.cpp
+  DependencyAnalyzer.cpp
+  Generating Code...
+  Parser.vcxproj -> C:\Users\brahm\Documents\OOD\P4\Debug\Parser.lib

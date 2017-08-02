@@ -1,0 +1,15 @@
+﻿  ParallelDependencyAnalysis.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  Analyser.cpp
+  ActionsAndRules.cpp
+  AbstractTree.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  DependencyAnalyzer.cpp
+  Generating Code...
+  ParallelDependencyAnalysis.vcxproj -> C:\Users\brahm\Documents\OOD\P4\Debug\ParallelDependencyAnalysis.lib

@@ -1,0 +1,20 @@
+﻿  MsgClient.cpp
+  Utilities.cpp
+  Tokenizer.cpp
+  Sockets.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  Analyser.cpp
+  ActionsAndRules.cpp
+  AbstractTree.cpp
+  ParallelDependencyAnalysis.cpp
+  Logger.cpp
+  Cpp11-BlockingQueue.cpp
+  HttpMessage.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  DependencyAnalyzer.cpp
+  Generating Code...
+  MsgClient.vcxproj -> C:\Users\brahm\Documents\OOD\P4\Debug\MsgClient.exe

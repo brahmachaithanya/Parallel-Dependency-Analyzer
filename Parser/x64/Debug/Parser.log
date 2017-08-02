@@ -1,0 +1,12 @@
+﻿  ActionsAndRules.cpp
+c:\users\nitish bhaskar\desktop\project 2 vm\latest\parser\actionsandrules.h(328): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  MetricExecutive.cpp
+c:\users\nitish bhaskar\desktop\project 2 vm\latest\parser\actionsandrules.h(328): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConfigureParser.cpp
+c:\users\nitish bhaskar\desktop\project 2 vm\latest\parser\actionsandrules.h(328): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Parser.cpp
+c:\users\nitish bhaskar\desktop\project 2 vm\latest\parser\actionsandrules.h(328): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Parser.vcxproj -> C:\Users\Nitish Bhaskar\Desktop\Project 2 VM\Latest\x64\Debug\Parser.exe
